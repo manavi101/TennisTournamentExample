@@ -1,0 +1,7 @@
+{
+  "db_host":"localhost",
+  "db_name":"tennistournament",
+  "db_user":"root",
+  "db_password":"",
+  "db_controller":"mysql"
+}
